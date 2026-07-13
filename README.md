@@ -114,7 +114,7 @@ Designed a normalized 5-table SQLite schema (Django ORM) unifying doctor, patien
 
 ### Bachelor of Engineering - Computer Science and Engineering
 **St. Joseph's College of Engineering, Chennai** | 2022 – 2026  
-**CGPA: 7.78**
+**CGPA: 7.86**
 
 ---
 
