@@ -49,12 +49,10 @@ Proven ability to ship end-to-end solutions through internships and independent 
 
 ### Oasis Infobyte | *Python Developer Intern*
 📅 Feb 2026 – Mar 2026
-
 > Shipped **5 standalone Python applications** — Voice Assistant (real-time speech recognition + third-party API integration), Weather App (live data processing), Chat App (socket-based peer-to-peer communication), BMI Calculator, and Password Generator — within a 6-week internship; each version-controlled on GitHub with a working demo and README.
-
 > Applied **end-to-end SDLC discipline** across all 5 deliverables — requirements → design → development → testing → version control → demo — with zero defects reported post-submission.
 
----
+[![View Repo](https://img.shields.io/badge/GitHub-Oasis--Infobyte--Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prath2244/Oasis-Infobyte-Projects)
 
 ### Approtech R&D Solutions Pvt. Ltd | *Project Intern*
 📅 Jun 2025 – Jul 2025
