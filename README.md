@@ -77,7 +77,7 @@ Proven ability to ship end-to-end solutions through internships and independent 
 
 Built a full-stack URL shortener with FastAPI and ReactJS, implementing a collision-resistant 6-character hash algorithm and achieving **sub-100ms redirect latency** under concurrent load. Implemented click analytics (total clicks, referrer tracking, timestamp logging) via SQLite; published with a live demo and full README on GitHub with a modular codebase ready for extension.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Prath2244)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Prath2244)(https://github.com/Prath2244/url-shortener-)
 
 ---
 
