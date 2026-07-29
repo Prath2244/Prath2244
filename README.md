@@ -1,4 +1,4 @@
-# 🚀 Prathmesh Mahesh
+# 🚀 Prathmesh M
 
 **Python Developer | AI/ML Engineer | Full Stack Developer**  
 📍 Chennai, TN  
