@@ -101,10 +101,9 @@ Achieved **93.7% accuracy** (best-in-class across all models benchmarked) by tra
 
 ### 🏥 Multi-Sector Hospital Management System
 *Django 5.0 · SQLite · Python*
-
 Designed a normalized 5-table SQLite schema (Django ORM) unifying doctor, patient, and staff data, eliminating duplicate queries and supporting **3 concurrent department workflows** on a single authenticated platform. Implemented department-level role-based access control with strict data isolation across all user types and integrated media file upload support for patient records.
+[![View Repo](https://img.shields.io/badge/GitHub-Hospital--Management--System-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prath2244/Hospital-Management-System)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Prath2244)
 
 ---
 
