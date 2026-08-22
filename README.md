@@ -72,14 +72,12 @@ Proven ability to ship end-to-end solutions through internships and independent 
 
 ## 📁 Projects
 
-### 🔗 URL Shortener Web Application
-*FastAPI · Python · SQLite · ReactJS*
+### 🔷 Nexus Workspace – Real-Time B2B Collaboration Platform
+* React 19 · Node.js · MongoDB · Socket.IO
 
-Built a full-stack URL shortener with FastAPI and ReactJS, implementing a collision-resistant 6-character hash algorithm and achieving **sub-100ms redirect latency** under concurrent load. Implemented click analytics (total clicks, referrer tracking, timestamp logging) via SQLite; published with a live demo and full README on GitHub with a modular codebase ready for extension.
+Engineered a full-stack collaboration platform enabling teams to create workspaces, organize channels, and exchange messages in real time. Implemented JWT-based authentication with role-based access control (Admin/Employee), WebSocket-driven live chat with typing indicators and online presence, and a file-sharing system with Multer. Designed a MongoDB schema supporting workspaces, channels, threaded messages, pinned content, and member management — all wrapped in a dark/light theme with a responsive UI built on Vite + Tailwind CSS.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Prath2244/url-shortener-)
-
----
+[![View Repo](https://img.shields.io/badge/GitHub-Real--Time--B2B--Collaboration--Platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prath2244/Real-Time-B2B-Collaboration-Platform)
 
 ### 🧠 Depression Detection from EEG Signals
 *PyTorch · MAML · Scikit-learn*
