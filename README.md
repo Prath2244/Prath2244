@@ -72,7 +72,7 @@ Proven ability to ship end-to-end solutions through internships and independent 
 
 ## 📁 Projects
 
-### 🔷 Nexus Workspace – Real-Time B2B Collaboration Platform
+### 🔷 Real-Time B2B Collaboration Platform
 * React 19 · Node.js · MongoDB · Socket.IO
 
 Engineered a full-stack collaboration platform enabling teams to create workspaces, organize channels, and exchange messages in real time. Implemented JWT-based authentication with role-based access control (Admin/Employee), WebSocket-driven live chat with typing indicators and online presence, and a file-sharing system with Multer. Designed a MongoDB schema supporting workspaces, channels, threaded messages, pinned content, and member management — all wrapped in a dark/light theme with a responsive UI built on Vite + Tailwind CSS.
