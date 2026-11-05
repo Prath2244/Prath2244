@@ -136,7 +136,6 @@ Designed a normalized 5-table SQLite schema (Django ORM) unifying doctor, patien
 
 ---
 
-
 *💡 Open to collaborations on Python projects, full-stack ReactJS applications, and AI/ML solutions. Currently expanding knowledge in Generative AI, specifically RAG and LLM APIs.*
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
