@@ -125,6 +125,7 @@ Designed a normalized 5-table SQLite schema (Django ORM) unifying doctor, patien
 | 🧪 Data Science Workshop | Microsoft |
 | ⚙️ Automation Developer Associate Training | UiPath |
 | 🧠 Explore Machine Learning using Python | Infosys Springboard |
+| ☁️ Cloud Practitioner Essentials | AWS |
 
 ---
 
