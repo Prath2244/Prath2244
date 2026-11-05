@@ -130,7 +130,6 @@ Designed a normalized 5-table SQLite schema (Django ORM) unifying doctor, patien
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Prath2244&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Prath2244&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prath2244&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
