@@ -136,11 +136,6 @@ Designed a normalized 5-table SQLite schema (Django ORM) unifying doctor, patien
 
 ---
 
-## 🔍 Visitor Counter
-
-[![](https://komarev.com/ghpvc/?username=Prath2244&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 *💡 Open to collaborations on Python projects, full-stack ReactJS applications, and AI/ML solutions. Currently expanding knowledge in Generative AI, specifically RAG and LLM APIs.*
 
