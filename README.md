@@ -2,6 +2,15 @@
   <img src="https://www.gitskins.com/api/section/hero?username=prath2244&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163981164%3Fv%3D4" alt="prath2244 hero visual" />
 </p>
 
+# 🚀 Prathmesh M
+
+**Python Developer | AI/ML Engineer | Full Stack Developer**  
+📍 Chennai, TN  
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshmahesh@gmail.com) [![Phone](https://img.shields.io/badge/Phone-%2B91_9025231292-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919025231292) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-m-02789b265) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prath2244)
+
+---
+
 ## 💫 About Me
 
 Computer Science Engineering graduate with practical experience across the full software development lifecycle — from machine learning pipelines and REST API design to full-stack web applications and cloud-ready deployments. Skilled in **Python, Django, ReactJS**, and **AI/ML frameworks** including PyTorch and TensorFlow, with growing exposure to Generative AI and LLM-based integrations.
