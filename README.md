@@ -2,17 +2,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=prath2244&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163981164%3Fv%3D4" alt="prath2244 hero visual" />
 </p>
 
-# 🚀 Prathmesh M
-
-**Python Developer | AI/ML Engineer | Full Stack Developer**  
-📍 Chennai, TN  
-📧 prathmeshmahesh@gmail.com  
-📱 +91 9025231292  
-🔗 [linkedin.com/in/prathmesh-m-02789b265](https://linkedin.com/in/prathmesh-m-02789b265)  
-🐙 [github.com/Prath2244](https://github.com/Prath2244)
-
----
-
 ## 💫 About Me
 
 Computer Science Engineering graduate with practical experience across the full software development lifecycle — from machine learning pipelines and REST API design to full-stack web applications and cloud-ready deployments. Skilled in **Python, Django, ReactJS**, and **AI/ML frameworks** including PyTorch and TensorFlow, with growing exposure to Generative AI and LLM-based integrations.
