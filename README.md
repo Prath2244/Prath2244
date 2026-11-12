@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=prath2244&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163981164%3Fv%3D4" alt="prath2244 hero visual" />
+</p>
+
 # 🚀 Prathmesh M
 
 **Python Developer | AI/ML Engineer | Full Stack Developer**  
